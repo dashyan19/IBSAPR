@@ -1,0 +1,9 @@
+C:\Users\NDA\Desktop\5sem\Информационная безопасность САПР - з\lab\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\NDA\Desktop\5sem\Информационная безопасность САПР - з\lab\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\NDA\Desktop\5sem\Информационная безопасность САПР - з\lab\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\NDA\Desktop\5sem\Информационная безопасность САПР - з\lab\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\NDA\Desktop\5sem\Информационная безопасность САПР - з\lab\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\NDA\Desktop\5sem\Информационная безопасность САПР - з\lab\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\NDA\Desktop\5sem\Информационная безопасность САПР - з\lab\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\NDA\Desktop\5sem\Информационная безопасность САПР - з\lab\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\NDA\Desktop\5sem\Информационная безопасность САПР - з\lab\lab1\lab1\obj\Debug\lab1.pdb
